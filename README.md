@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Ram 👋</h1>
-<h3 align="center">Computer Science & Engineering student at NIT Srinagar · Python · DSA · Web Development</h3>
+<h3 align="center">CSE student at NIT Srinagar · Aspiring Cybersecurity Engineer 🔐 · Python · DSA · Web Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NIT%20Srinagar-CSE-blue?style=for-the-badge" alt="NIT Srinagar CSE" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Aspiring-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Aspiring Cybersecurity Engineer" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -14,6 +15,7 @@
 ## 🧑‍💻 About me
 
 - 🎓 B.Tech in **Computer Science & Engineering** at **National Institute of Technology (NIT) Srinagar**
+- 🔐 **Aspiring Cybersecurity Engineer**: learning networking, Linux, web application security (OWASP Top 10) and Capture The Flag (CTF) challenges
 - 🏥 Building **[Clinora](https://github.com/urstrulyrammukesh/clinora)**, an AI receptionist for clinics
 - 🧠 Practising **Data Structures & Algorithms** in Python, one problem at a time
 - 🌱 Learning web development, system design and open source
@@ -33,6 +35,15 @@
 **Core CS:** Data Structures & Algorithms, Object-Oriented Programming
 **Tools:** Git, GitHub, VS Code
 
+## 🔐 Cybersecurity journey
+
+I'm working towards a career in cybersecurity. What I'm learning now:
+
+- **Networking:** TCP/IP, DNS, HTTP and how traffic moves across the internet
+- **Linux:** command line, permissions and shell scripting
+- **Web security:** the OWASP Top 10 (SQL injection, XSS, broken authentication)
+- **Practice:** Capture The Flag (CTF) challenges and hands-on security labs
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -51,4 +62,4 @@
   <a href="https://www.youtube.com/@urstrulyrammukeshz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-<p align="center"><i>Ram · CSE @ NIT Srinagar · always learning, always building</i></p>
+<p align="center"><i>Ram · CSE @ NIT Srinagar · Aspiring Cybersecurity Engineer · always learning, always building</i></p>
