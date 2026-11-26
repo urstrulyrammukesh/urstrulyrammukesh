@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Ram Mukesh Yadav: Founder of Clinora, CSE at NIT Srinagar, aspiring cybersecurity engineer">
+  <title>Ram Mukesh Yadav</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070d"/><stop offset=".55" stop-color="#0a1020"/><stop offset="1" stop-color="#140812"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".5" r=".45">
+      <stop offset="0" stop-color="#ff2a4d" stop-opacity=".22"/><stop offset="1" stop-color="#ff2a4d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#36f1ff" stop-opacity="0"/><stop offset=".5" stop-color="#36f1ff" stop-opacity=".35"/><stop offset="1" stop-color="#36f1ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1b2a44" stroke-width=".6"/>
+    </pattern>
+    <clipPath id="typing"><rect x="60" y="196" height="30" width="0">
+      <animate attributeName="width" values="0;620;620;0" keyTimes="0;.45;.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="bar"><rect x="64" y="290" height="8" width="0">
+      <animate attributeName="width" values="0;250;250" keyTimes="0;.7;1" dur="4s" repeatCount="indefinite"/></rect></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+      .name{font:800 64px 'Segoe UI','Helvetica Neue',Arial,sans-serif;letter-spacing:3px}
+      .g1{animation:g1 3s infinite steps(1)} .g2{animation:g2 3s infinite steps(1)}
+      @keyframes g1{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(-5px,2px);opacity:.9}91%{transform:translate(4px,-1px);opacity:.9}94%{transform:translate(-2px,0);opacity:.7}}
+      @keyframes g2{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(5px,-2px);opacity:.9}91%{transform:translate(-4px,1px);opacity:.9}94%{transform:translate(2px,0);opacity:.7}}
+      .blink{animation:blink 1.1s infinite steps(1)} @keyframes blink{50%{opacity:0}}
+      .spin{transform-origin:930px 180px;animation:spin 14s linear infinite} .spinr{transform-origin:930px 180px;animation:spin 9s linear infinite reverse}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .pulse{transform-origin:930px 180px;animation:pulse 2.4s ease-in-out infinite} @keyframes pulse{50%{transform:scale(1.06);opacity:.55}}
+      .sweep{animation:sweep 5s linear infinite} @keyframes sweep{from{transform:translateY(-60px)}to{transform:translateY(380px)}}
+      .flow{animation:flow 6s linear infinite} @keyframes flow{from{transform:translateY(0)}to{transform:translateY(-120px)}}
+      .fade{animation:fade 4s ease-in-out infinite} @keyframes fade{50%{opacity:.25}}
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity=".7"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+
+  <!-- data streams (right side) -->
+  <g class="mono" font-size="11" fill="#36f1ff" opacity=".22">
+    <g class="flow">
+      <text x="1110" y="40">0x4E 0x49 0x54</text><text x="1110" y="70">SYN → ACK</text><text x="1110" y="100">TLS 1.3 OK</text>
+      <text x="1110" y="130">AES-256-GCM</text><text x="1110" y="160">CSP nonce ✓</text><text x="1110" y="190">HMAC verify</text>
+      <text x="1110" y="220">PBKDF2 310k</text><text x="1110" y="250">port 443 open</text><text x="1110" y="280">ssh: denied</text>
+      <text x="1110" y="310">MITRE T1110</text><text x="1110" y="340">0x53 0x52 0x47</text><text x="1110" y="370">SYN → ACK</text>
+      <text x="1110" y="400">TLS 1.3 OK</text><text x="1110" y="430">AES-256-GCM</text><text x="1110" y="460">CSP nonce ✓</text>
+    </g>
+  </g>
+
+  <!-- HUD corner brackets -->
+  <g fill="none" stroke="#36f1ff" stroke-width="2" opacity=".8">
+    <path d="M20 50V20H50"/><path d="M1150 20H1180V50"/><path d="M20 310V340H50"/><path d="M1150 340H1180V310"/>
+  </g>
+
+  <!-- top status line -->
+  <g class="mono" font-size="12" fill="#7f8fb0">
+    <text x="60" y="44">ID: NITSGR-CSE · NODE: SRINAGAR 34.08°N 74.79°E</text>
+    <rect x="60" y="58" width="196" height="22" fill="#3a0a14" stroke="#ff2a4d"/>
+    <text x="70" y="74" fill="#ff5a73" font-weight="700" letter-spacing="1">OFFICIAL STATUS:</text>
+    <rect x="262" y="58" width="168" height="22" fill="#08241a" stroke="#22e39a"/>
+    <text x="272" y="74" fill="#3dffb0" font-weight="700" letter-spacing="1" class="blink">ACCESS GRANTED</text>
+  </g>
+
+  <!-- name with glitch -->
+  <g>
+    <text x="58" y="160" class="name g1" fill="#ff2a4d">RAM MUKESH YADAV</text>
+    <text x="58" y="160" class="name g2" fill="#36f1ff">RAM MUKESH YADAV</text>
+    <text x="58" y="160" class="name" fill="#eef3ff">RAM MUKESH YADAV</text>
+  </g>
+
+  <!-- typed subtitle -->
+  <g clip-path="url(#typing)">
+    <text x="60" y="218" class="mono" font-size="19" fill="#36f1ff">&gt; Founder @ Clinora · CSE @ NIT Srinagar · Cybersecurity</text>
+  </g>
+  <rect x="60" y="200" width="11" height="22" fill="#36f1ff" class="blink" opacity=".8">
+    <animate attributeName="x" values="60;680;680;60" keyTimes="0;.45;.9;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal lines -->
+  <g class="mono" font-size="12" fill="#8fa3c8">
+    <text x="64" y="262">$ whoami  <tspan fill="#3dffb0">blue-team · builder · learner</tspan></text>
+    <text x="64" y="282">$ scan --target self  <tspan fill="#ffc857">9 findings → 9 fixed</tspan></text>
+    <rect x="64" y="290" width="250" height="8" fill="#13203a"/>
+    <rect x="64" y="290" width="250" height="8" fill="#36f1ff" clip-path="url(#bar)"/>
+    <text x="324" y="298" fill="#36f1ff" class="fade">ANALYZING…</text>
+  </g>
+
+  <!-- target reticle (right) -->
+  <g>
+    <circle cx="930" cy="180" r="118" fill="none" stroke="#ff2a4d" stroke-opacity=".25" stroke-width="1"/>
+    <g class="spin" fill="none" stroke="#ff2a4d" stroke-width="3">
+      <path d="M930 70a110 110 0 0 1 95 55" /><path d="M1040 180a110 110 0 0 1-40 85"/><path d="M930 290a110 110 0 0 1-95-55"/><path d="M820 180a110 110 0 0 1 40-85"/>
+    </g>
+    <g class="spinr" fill="none" stroke="#36f1ff" stroke-width="1.5" stroke-dasharray="6 10" opacity=".8">
+      <circle cx="930" cy="180" r="88"/>
+    </g>
+    <g class="pulse" fill="none" stroke="#ff2a4d" stroke-width="1.2" opacity=".9"><circle cx="930" cy="180" r="62"/></g>
+    <!-- crosshair -->
+    <g stroke="#ff2a4d" stroke-width="1.5" opacity=".9">
+      <path d="M930 40v28M930 292v28M790 180h28M1042 180h28"/>
+    </g>
+    <!-- shield + lock (original emblem) -->
+    <path d="M930 132l38 14v30c0 26-16 44-38 54c-22-10-38-28-38-54v-30z" fill="#0c1426" stroke="#36f1ff" stroke-width="2.5"/>
+    <rect x="914" y="172" width="32" height="26" rx="4" fill="#36f1ff"/>
+    <path d="M920 172v-8a10 10 0 0 1 20 0v8" fill="none" stroke="#36f1ff" stroke-width="4"/>
+    <circle cx="930" cy="184" r="4" fill="#0c1426"/><rect x="928" y="186" width="4" height="7" fill="#0c1426"/>
+    <!-- side labels -->
+    <g class="mono" font-size="11">
+      <rect x="1000" y="250" width="132" height="20" fill="#3a0a14" stroke="#ff2a4d"/>
+      <text x="1008" y="264" fill="#ff5a73" class="blink">TRACKING THREATS</text>
+      <text x="1000" y="84" fill="#7f8fb0">SEARCHING…</text>
+      <text x="1000" y="100" fill="#36f1ff" class="fade">LOCK ▸ 98.7%</text>
+    </g>
+  </g>
+
+  <!-- scan sweep over everything -->
+  <rect class="sweep" x="0" y="0" width="1200" height="60" fill="url(#scan)"/>
+  <!-- scanlines -->
+  <rect width="1200" height="360" fill="none" stroke="#000" stroke-opacity="0"/>
+  <g opacity=".08" stroke="#ffffff"><path d="M0 120H1200M0 240H1200"/></g>
+</svg>

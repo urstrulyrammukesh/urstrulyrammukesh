@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ram Mukesh Yadav 👋</h1>
+<p align="center"><img src="assets/hud-banner.svg" alt="Ram Mukesh Yadav: Founder @ Clinora, CSE @ NIT Srinagar, cybersecurity" width="100%"></p>
+
+<h1 align="center">Hi, I'm Ram 👋</h1>
 <h3 align="center">Founder @ Clinora · CSE student at NIT Srinagar · Aspiring Cybersecurity Engineer 🔐 · Python · DSA · Web Development</h3>
 <p align="center">🌐 <a href="https://urstrulyrammukesh.github.io"><b>urstrulyrammukesh.github.io</b></a></p>
 
