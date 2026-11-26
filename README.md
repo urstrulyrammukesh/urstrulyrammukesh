@@ -26,6 +26,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Clinora**](https://github.com/urstrulyrammukesh/clinora) | AI receptionist for clinics: book visits and video consultations, find doctors, hospitals, labs and colleges, pay locally, in 139 languages | HTML · JavaScript · AI |
+| [**cybersecurity-journey**](https://github.com/urstrulyrammukesh/cybersecurity-journey) | My path into cybersecurity: networking, Linux and OWASP notes, lab log, CTF write-ups and a password strength checker | Python · Security |
 | [**Leetcode-**](https://github.com/urstrulyrammukesh/Leetcode-) | LeetCode and DSA solutions in Python, grouped by topic, each with its own tests | Python |
 | [**AlgoPulse**](https://github.com/urstrulyrammukesh/AlgoPulse) | Extending AlgoPulse with external IDE tools, GitHub syncing and hardware encryption | Python |
 
@@ -37,7 +38,7 @@
 
 ## 🔐 Cybersecurity journey
 
-I'm working towards a career in cybersecurity. What I'm learning now:
+I'm working towards a career in cybersecurity, and I track everything in **[cybersecurity-journey](https://github.com/urstrulyrammukesh/cybersecurity-journey)**. What I'm learning now:
 
 - **Networking:** TCP/IP, DNS, HTTP and how traffic moves across the internet
 - **Linux:** command line, permissions and shell scripting
