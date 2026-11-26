@@ -18,6 +18,7 @@
 - 🎓 B.Tech in **Computer Science & Engineering** at **National Institute of Technology (NIT) Srinagar**
 - 🔐 **Aspiring Cybersecurity Engineer**: learning networking, Linux, web application security (OWASP Top 10) and Capture The Flag (CTF) challenges
 - 🏥 **Founder & Developer of [Clinora](https://github.com/urstrulyrammukesh/clinora)**, a health platform to book real doctors, video visits, prescriptions, reminders and encrypted health records · 📄 [Read the Clinora paper (PDF)](https://github.com/urstrulyrammukesh/clinora/blob/main/docs/Clinora-Company-Overview.pdf)
+- 🛠️ **[How Clinora is built](https://github.com/urstrulyrammukesh/clinora-tech-stack)**: languages, lines of code, APIs, database, tools and timeline
 - 🧠 Practising **Data Structures & Algorithms** in Python, one problem at a time
 - 🌱 Learning web development, system design and open source
 - 🤝 Member of the **Training & Placement Cell**, NIT Srinagar
