@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ram 👋</h1>
+<h1 align="center">Hi, I'm Ram Mukesh 👋</h1>
 <h3 align="center">CSE student at NIT Srinagar · Aspiring Cybersecurity Engineer 🔐 · Python · DSA · Web Development</h3>
 <p align="center">🌐 <a href="https://urstrulyrammukesh.github.io"><b>urstrulyrammukesh.github.io</b></a></p>
 
@@ -65,4 +65,4 @@ I'm working towards a career in cybersecurity, and I track everything in **[cybe
   <a href="https://www.youtube.com/@urstrulyrammukeshz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-<p align="center"><i>Ram · CSE @ NIT Srinagar · Aspiring Cybersecurity Engineer · always learning, always building</i></p>
+<p align="center"><i>Ram Mukesh · CSE @ NIT Srinagar · Aspiring Cybersecurity Engineer · always learning, always building</i></p>
