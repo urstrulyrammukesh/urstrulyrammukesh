@@ -18,11 +18,25 @@
 - 🎓 B.Tech in **Computer Science & Engineering** at **National Institute of Technology (NIT) Srinagar**
 - 🔐 **Aspiring Cybersecurity Engineer**: learning networking, Linux, web application security (OWASP Top 10) and Capture The Flag (CTF) challenges
 - 🏥 **Founder & Developer of [Clinora](https://github.com/urstrulyrammukesh/clinora)**, a health platform to book real doctors, video visits, prescriptions, reminders and encrypted health records · 📄 [Read the Clinora paper (PDF)](https://github.com/urstrulyrammukesh/clinora/blob/main/docs/Clinora-Company-Overview.pdf)
+- 🌐 **[Clinora live demo](https://clinora-cwxu.onrender.com)** (free server: may take ~50 s to wake up)
 - 🛠️ **[How Clinora is built](https://github.com/urstrulyrammukesh/clinora-tech-stack)**: languages, lines of code, APIs, database, tools and timeline
 - 🧠 Practising **Data Structures & Algorithms** in Python, one problem at a time
 - 🌱 Learning web development, system design and open source
 - 🤝 Member of the **Training & Placement Cell**, NIT Srinagar
 - 📍 Srinagar, Jammu & Kashmir, India
+
+## 🏥 Clinora at a glance
+
+<p align="center"><a href="https://github.com/urstrulyrammukesh/clinora"><img src="https://raw.githubusercontent.com/urstrulyrammukesh/clinora/main/assets/readme/banner.jpg" alt="Clinora" width="90%"></a></p>
+
+```mermaid
+flowchart LR
+    P([👩 Patient]) --> F[🔍 Find a verified doctor] --> B[📅 Book · 💳 pay]
+    B --> V{Visit}
+    V -->|clinic| Q[🎫 Live queue token]
+    V -->|video| C[📹 Video visit]
+    Q & C --> RX[💊 Prescription] --> R[⏰ Reminders · 📁 records]
+```
 
 ## 🚀 Featured projects
 
