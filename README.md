@@ -29,6 +29,11 @@
 
 <p align="center"><a href="https://github.com/urstrulyrammukesh/clinora"><img src="https://raw.githubusercontent.com/urstrulyrammukesh/clinora/main/assets/readme/banner.jpg" alt="Clinora" width="90%"></a></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urstrulyrammukesh/clinora/main/assets/readme/screens/1-website.jpg" width="58%" alt="Clinora website">
+  <img src="https://raw.githubusercontent.com/urstrulyrammukesh/clinora/main/assets/readme/screens/4-app.jpg" width="22%" alt="Clinora phone app">
+</p>
+
 ```mermaid
 flowchart LR
     P([👩 Patient]) --> F[🔍 Find a verified doctor] --> B[📅 Book · 💳 pay]
