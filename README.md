@@ -70,6 +70,14 @@ I'm working towards a career in cybersecurity, and I track everything in **[cybe
 - **Web security:** the OWASP Top 10 (SQL injection, XSS, broken authentication)
 - **Practice:** Capture The Flag (CTF) challenges and hands-on security labs
 
+## 🧩 LeetCode
+
+I solve Data Structures & Algorithms problems on **[LeetCode](https://leetcode.com/u/urstrulyrammukesh96/)** in C++ and Python. My solutions with tests live in **[Leetcode-](https://github.com/urstrulyrammukesh/Leetcode-)**.
+
+<p align="center">
+  <a href="https://leetcode.com/u/urstrulyrammukesh96/"><img src="https://leetcard.jacoblin.cool/urstrulyrammukesh96?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" /></a>
+</p>
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -86,6 +94,7 @@ I'm working towards a career in cybersecurity, and I track everything in **[cybe
   <a href="https://urstrulyrammukesh.github.io"><img src="https://img.shields.io/badge/Portfolio-9FEF00?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ram-mukesh-yadav-033336412/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/urstrulyrammukesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/urstrulyrammukesh96/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/urstrulyrammukesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@urstrulyrammukeshz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
