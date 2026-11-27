@@ -57,9 +57,20 @@ flowchart LR
 
 ## 🛠️ Skills
 
-**Languages:** Python, HTML, CSS, JavaScript, TypeScript
-**Core CS:** Data Structures & Algorithms, Object-Oriented Programming
-**Tools:** Git, GitHub, VS Code
+- **Languages:** Python, Rust, HTML, CSS, JavaScript, TypeScript
+- **Core CS:** Data Structures & Algorithms, Object-Oriented Programming
+- **Security tools:** Nmap, Burp Suite, Wireshark, Linux, OSINT
+- **Tools:** Git, GitHub, VS Code
+
+## 🎓 Education
+
+| | Details |
+|---|---|
+| 🎓 **B.Tech, Computer Science & Engineering** | National Institute of Technology (NIT) Srinagar |
+| 🏆 **JEE Main** | 90.1 percentile |
+| 📘 **Class 12** | 83.8% |
+| 📗 **Class 10** | 71% |
+| 💻 **Advanced Computer Course** | June 2022 to June 2023 |
 
 ## 🔐 Cybersecurity journey
 
