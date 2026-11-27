@@ -53,7 +53,6 @@ flowchart LR
 | [**cybersecurity-journey**](https://github.com/urstrulyrammukesh/cybersecurity-journey) | My path into cybersecurity: networking, Linux and OWASP notes, lab log, CTF write-ups, a password strength checker and a security-headers grader | Python · Security |
 | [**log-analyzer**](https://github.com/urstrulyrammukesh/log-analyzer) | Blue-team tool: finds brute force, scanners, SQL injection, XSS and Log4Shell in web & SSH logs, mapped to MITRE ATT&CK | Python · Security |
 | [**Leetcode-**](https://github.com/urstrulyrammukesh/Leetcode-) | 233 LeetCode and DSA solutions in Python across 14 topics, each with its own tests (run by GitHub Actions) | Python |
-| [**AlgoPulse**](https://github.com/urstrulyrammukesh/AlgoPulse) | Extending AlgoPulse with external IDE tools, GitHub syncing and hardware encryption | Python |
 
 ## 🛠️ Skills
 
