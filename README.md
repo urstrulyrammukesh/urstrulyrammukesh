@@ -72,6 +72,13 @@ flowchart LR
 | 📗 **Class 10** | 71.8% · Bright Way Academy, Dhani Bazar, near Gorakhpur, Uttar Pradesh |
 | 💻 **Advanced Computer Course** | June 2022 to June 2023 |
 
+## 🗺️ Learning roadmap (Dec 2026 → 2030)
+
+My full plan for **DSA from zero to advanced** and **cybersecurity / ethical hacking**: phases, must-solve LeetCode problems, tools, practice sites and certifications.
+
+- 📄 Read it here: **[ROADMAP.md](ROADMAP.md)**
+- ✅ Interactive version with progress tracking: **[urstrulyrammukesh.github.io/roadmap.html](https://urstrulyrammukesh.github.io/roadmap.html)**
+
 ## 🔐 Cybersecurity journey
 
 I'm working towards a career in cybersecurity, and I track everything in **[cybersecurity-journey](https://github.com/urstrulyrammukesh/cybersecurity-journey)**. What I'm learning now:
