@@ -68,7 +68,7 @@ flowchart LR
 |---|---|
 | 🎓 **B.Tech, Computer Science & Engineering** | National Institute of Technology (NIT) Srinagar |
 | 🏆 **JEE Main** | 90.1 percentile |
-| 📘 **Class 12** | 83.8% |
+| 📘 **Class 12** | 83.8% · NIOS (National Institute of Open Schooling), English medium |
 | 📗 **Class 10** | 71% |
 | 💻 **Advanced Computer Course** | June 2022 to June 2023 |
 
